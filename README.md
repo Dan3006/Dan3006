@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I am Danielius
 
-<!--
-**Dan3006/Dan3006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior full stack developer focused on building data-driven applications with Django REST and React.
 
-Here are some ideas to get you started:
+## Skills
+• Backend: Django REST Framework, JWT authentication
+• Frontend: React (Vite), modern UI development
+• Databases: PostgreSQL
+• Version control: Git, GitHub workflow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+• RepForge: Powerlifting performance tracker (private repo, case study coming soon)
+• RepPal: Well-being mobile concept (early development)
+• Public components and demos releasing soon
+
+## Current Goals
+• Publish open source slices of my private projects
+• Improve documentation and testing practices
+• Explore open source contribution opportunities
+
+## Connect
+LinkedIn: linkedin.com/in/danieliusvencius07/
+
+
